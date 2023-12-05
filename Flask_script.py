@@ -33,22 +33,23 @@ def homepage():
 
 @app.route("/Immigrants")
 def Immigrants():
-   Immigrants_data = pd.read_csv("merged_provinces_data.csv")
+   Immigrants_data = pd.read_csv("Resources/merged_provinces_data.csv")
    return jsonify(Immigrants_data.to_dict())
 
 @app.route("/Construction")
 def Construction():
-   Construction_data = pd.read_csv("construction.csv")
+   Construction_data = pd.read_csv("Resources/construction.csv")
    return jsonify(Construction_data.to_dict())
 
 @app.route("/Income")
 def Income():
-   Income_data = pd.read_excel("income_res.xlsx")
+  
+   Income_data = pd.read_excel("Resources/income_res.xlsx")
    return jsonify(Income_data.to_dict())
 
 @app.route("/Mortgage")
 def Mortgage():
-   Mortgage_data = pd.read_csv("Merged_Provinces_Mortgages.csv")
+   Mortgage_data = pd.read_csv("Resources/Merged_Provinces_Mortgages.csv")
    return jsonify(Mortgage_data.to_dict())
 
 # Process the query results into a dictionary
