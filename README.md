@@ -1,7 +1,7 @@
 # Project-3-team1
 Team members: Mehr Atif, Laura Jostti, Megha Rani, Daria Riechkina.
 
-IMMIGRATION IMPACT ON CANADIAN CONSTROCTION AND PROPERTY BUSINESS
+IMMIGRATION IMPACT ON CANADIAN CONSTRUCTION AND PROPERTY BUSINESS
 
 PROJECT OUTLINE:
 With the help of Python Flask and Java Script make interactive dashboard of immigration impact
