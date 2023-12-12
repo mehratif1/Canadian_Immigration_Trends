@@ -7,11 +7,38 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Immigrantion Trends Canada</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <title>Hover Effect with jQuery</title>
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <style>
+    /* Style the text initially */
+    .hover-text {
+      color: black;
+    }
+
+    /* Style the text on hover */
+    .hover-text:hover {
+      color: red;
+    }
+  </style>
 
   
 </head>
 
 <body>
+
+  <script>
+    // Use jQuery to add hover effect
+    $(document).ready(function () {
+      $('.hover-text').hover(
+        function () {
+          $(this).css('color', 'red');
+        },
+        function () {
+          $(this).css('color', 'black');
+        }
+      );
+    });
+  </script>
   
     <div class="container">
         <div class="row">
@@ -24,10 +51,12 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2">
+          <div class="col-md-3">
              <div class="well">
-              <h5><strong>Province selector:</strong></h5>
-              <select id="provincedata" onchange="provinceoptionChanged(this.value)"></select>
+              <h5 class="hover-text"><strong>Province selector:</strong></h5>
+
+              
+              <select id="provincedata" class="hover-text" onchange="provinceoptionChanged(this.value)"></select>
             </div>
             
             <div class="panel panel-primary">
@@ -42,10 +71,10 @@
             <div id="line"></div>
             
           </div>
-          <div class="col-md-2">
+          <div class="col-md-1">
             <div class="well">
-              <h5><strong>Year selector:</strong></h5>
-              <select id="yeardata" onchange="yearoptionChanged(this.value)"></select>
+              <h5 class="hover-text"><strong>Year selector:</strong></h5>
+              <select id="yeardata" class="hover-text" onchange="yearoptionChanged(this.value)"></select>
               
           </div>
         </div>

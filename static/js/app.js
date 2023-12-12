@@ -36,8 +36,15 @@ function immigrants_data(sample) {
 
     let barLayout = {
         title: `Immigrants trend over the years in ${sample}`,
-        margin: { t: 30, l: 150 }
-      };
+        margin: { t: 30, l: 150 },
+        xaxis: {
+          title: "Years"
+      },
+      yaxis: {
+          title: "Immigrants Count"
+      }
+    };
+     
       Plotly.newPlot("bar",bardata,barLayout)
   // Create a line chart using Plotly with the extracted data
     let linedata = [
@@ -59,8 +66,15 @@ function immigrants_data(sample) {
 
 let lineLayout = {
   title: `Line Chart: Immigrants trend over the years in ${sample}`,
-  margin: { t: 30, l: 150 }
+  margin: { t: 30, l: 150 },
+  xaxis: {
+    title: "Years"
+},
+yaxis: {
+    title: "Immigrants Count"
+}
 };
+
 
 // Create or update the line chart with new data
 Plotly.newPlot("line", linedata, lineLayout);
@@ -200,8 +214,15 @@ Plotly.newPlot("line", linedata, lineLayout);
         // Create barLayout for Plotly
         let barLayout = {
             title: `Immigrants count for ${newSample}`,
-            margin: { t: 30, l: 150 }
-        };
+            margin: { t: 30, l: 150 },
+            xaxis: {
+              title: "Province"
+          },
+          yaxis: {
+              title: "Immigrants Count"
+          }
+        }
+        
 
         // Update the bar chart with new data
         Plotly.newPlot("bar", bardata, barLayout);
@@ -227,7 +248,7 @@ Plotly.newPlot("line", linedata, lineLayout);
 
 // Create lineLayout for Plotly
 let lineLayout = {
-  title: `Immigrants trend over the years in ${newSample}`,
+ title: `Line Chart`,
   margin: { t: 30, l: 150 },
   xaxis: {
       title: "Province"
