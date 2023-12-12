@@ -23,8 +23,8 @@ RESEARCH QUESTION TO ANSWER:
 SOURCES: 
 Bank of Canada, CMHC, Government of Canada Statistics.
 
-TECHNIQUES:
-Web scraping: BeautifulSoup, Selenium;
+
+
 
 DATABASE: 
 MySQL;
