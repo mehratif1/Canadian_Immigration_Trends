@@ -1,5 +1,5 @@
 # Project-3-team1
-#Collaborators: Mehr Atif, Laura Jostti, Megha Rani, Daria Riechkina.
+# Collaborators: Mehr Atif, Laura Jostti, Megha Rani, Daria Riechkina.
 
 IMMIGRATION IMPACT ON CANADIAN CONSTRUCTION AND PROPERTY BUSINESS
 
