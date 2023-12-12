@@ -10,7 +10,7 @@ on Canadian construction and property business.
 # SUMMARY:
 In summary, the code fetches data from an endpoint, filters and extracts relevant information, populates dropdown menus, and updates a bar chart and line chart based on user selections. The dropdowns allow users to choose a province or year, updating the displayed chart accordingly.
 
-The screenshot(/screenshots/Screenshot%202023-12-12%20182816.png)
+![The screenshot](/screenshots/Screenshot%202023-12-12%20182816.png)
 
 
 RESEARCH QUESTION TO ANSWER:
