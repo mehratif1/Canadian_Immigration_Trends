@@ -1,14 +1,17 @@
 # Project-3-team1
 # Collaborators: Mehr Atif, Laura Jostti, Megha Rani, Daria Riechkina.
 
-IMMIGRATION IMPACT ON CANADIAN CONSTRUCTION AND PROPERTY BUSINESS
+# IMMIGRATION TRENDS OVER THE PAST YEARS AND ITS IMPACT
 
 # PROJECT OUTLINE:
 With the help of Python Flask and Java Script make interactive dashboard of immigration impact
 on Canadian construction and property business.
 
+
+
 # SUMMARY:
 In summary, the code fetches data from an endpoint, filters and extracts relevant information, populates dropdown menus, and updates a bar chart and line chart based on user selections. The dropdowns allow users to choose a province or year, updating the displayed chart accordingly.
+
 
 ![The screenshot](/screenshots/Screenshot%202023-12-12%20182816.png)
 
