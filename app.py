@@ -13,17 +13,7 @@ def homepage():
     """List of all the files."""
     return render_template ("index.html")
        
-      #   f"Immigrants<br/>"
-      #   f"Construction<br/>"
-      #   f"Income<br/>"
-      #   f"Mortgage<br/><end>"
-        
-    
-
-# @app.route("/Immigrants")
-# def Immigrants():
-#    Immigrants_data = pd.read_csv("static/data/Immigrants.csv")
-#    return jsonify(Immigrants_data.to_dict())
+     
 
 @app.route("/Immigrants")
 def Immigrants():
@@ -33,10 +23,6 @@ def Immigrants():
     return jsonify(df1.to_dict(orient='records'))
 
 
-# @app.route("/Construction")
-# def Construction():
-#    Construction_data = pd.read_csv("static/data/Construction.csv")
-#    return jsonify(Construction_data.to_dict())
 
 @app.route("/Construction")
 def Construction():
@@ -46,11 +32,6 @@ def Construction():
     return jsonify(df1.to_dict(orient='records'))
 
 
-# @app.route("/Income")
-# def Income():
-  
-#    Income_data = pd.read_("static/data/Income.xlsx")
-#    return jsonify(Income_data.to_dict())
 
 @app.route("/Income")
 def Income():
@@ -60,10 +41,6 @@ def Income():
     return jsonify(df1.to_dict(orient='records'))
 
 
-# @app.route("/Mortgage")
-# def Mortgage():
-#    Mortgage_data = pd.read_csv("static/data/Mortgages.csv")
-#    return jsonify(Mortgage_data.to_dict())
 
 @app.route("/Mortgage")
 def Mortgage():

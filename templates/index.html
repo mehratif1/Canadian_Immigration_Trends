@@ -8,26 +8,29 @@
   <title>Immigrantion Trends Canada</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
 
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
 </head>
 
-    
-</head>
 <body>
     <div class="container">
         <div class="row">
           <div class="col-md-12 jumbotron text-center">
             <div class="col-md-12 jumbotron text-center" style="background: url('https://m.media-amazon.com/images/I/61s3BBYfrYL._SX522_.jpg') no-repeat center center fixed; background-size: cover; color: black;"> 
             <h1>Canadian Immigration Trends by Province</h1>
-            <p>Use the interactive charts below to explore the dataset</p>
+            <p><strong>>Use the interactive charts below to explore the dataset</strong</p>
             
-</div>
+
           </div>
         </div>
         <div class="row">
-          <div class="col-md-2>
-            <div class="well">
+          <div class="col-md-2">
+             <div class="well">
               <h5><strong>Province selector:</strong></h5>
               <select id="provincedata" onchange="provinceoptionChanged(this.value)"></select>
             </div>
@@ -42,18 +45,28 @@
           <div class="col-md-8">
             <div id="bar"></div>
             <div id="line"></div>
+            
           </div>
           <div class="col-md-2">
             <div class="well">
               <h5><strong>Year selector:</strong></h5>
               <select id="yeardata" onchange="yearoptionChanged(this.value)"></select>
+              <h5><strong>Map Year selector:</strong></h5>
+              <select id="mapdata" onchange="mapoptionChanged(this.value)"></select>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12">
             <div id="line-chart"></div>
+
           </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+        <div id="map" style="height: 400px;"></div>
+        
+        </div>
         </div>
       </div>
     

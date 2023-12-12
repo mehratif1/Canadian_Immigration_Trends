@@ -68,27 +68,7 @@ Plotly.newPlot("line", linedata, lineLayout);
    
     })};
 
-  //   function infoForYear(selectedYear) {
-
-  //     let url = '/Immigrants';
-  //     d3.json(url).then(function (data) {
-  //         console.log(data);
   
-  //         // Assuming data is an array of objects with properties like year, immigrants_count, province
-  //         let yearData = data.filter(sampleObj => sampleObj.year == selectedYear);
-  
-  //         // Clear the previous content
-  //         infoPanel = d3.select("#sample-info");
-  //         infoPanel.html("");
-  
-  //         // Display information for all provinces in the selected year
-  //         yearData.forEach(provinceData => {
-  //             infoPanel.append("h5").text(`Province: ${provinceData.province}`);
-  //             infoPanel.append("h5").text(`Immigrants Count: ${provinceData.immigrants_count}`);
-  //             infoPanel.append("hr"); // Adding a horizontal line for separation
-  //         });
-  //     });
-  // }
 
 
     function info(sample) {
@@ -119,8 +99,14 @@ Plotly.newPlot("line", linedata, lineLayout);
           }
       });
   }
+
+  
+
+
+  
+
     
-    function init(){
+  function init(){
 
 
     // Specify the URL for the data
@@ -171,20 +157,15 @@ Plotly.newPlot("line", linedata, lineLayout);
           .text(yeardata[i])
           .property("value", yeardata[i]);
     }
-    
-   
-    // Use the first province in the list to initialize the chart
+
+     
+     // Use the first province in the list to initialize the chart
       let firstSample = provincedata[0];
       immigrants_data(firstSample);
       info(firstSample);
+      
 
-      // Add an event listener to the year selector dropdown
-//     let yearSelector = d3.select("#yeardata");
-//     yearSelector.on("change", function () {
-//         let selectedYear = d3.event.target.value;
-        
-//         infoForYear(selectedYear);
-//     });
+      
 })
     };
   
@@ -260,6 +241,7 @@ let lineLayout = {
 Plotly.newPlot("line", linedata, lineLayout);
     });
 }
-    
-  init()
+
+
+init()
 
