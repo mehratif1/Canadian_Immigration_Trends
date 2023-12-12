@@ -3,11 +3,11 @@
 
 IMMIGRATION IMPACT ON CANADIAN CONSTRUCTION AND PROPERTY BUSINESS
 
-#PROJECT OUTLINE:
+# PROJECT OUTLINE:
 With the help of Python Flask and Java Script make interactive dashboard of immigration impact
 on Canadian construction and property business.
 
-#SUMMARY:
+# SUMMARY:
 In summary, the code fetches data from an endpoint, filters and extracts relevant information, populates dropdown menus, and updates a bar chart and line chart based on user selections. The dropdowns allow users to choose a province or year, updating the displayed chart accordingly.
 
 
