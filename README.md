@@ -14,7 +14,8 @@ In summary, the code fetches data from an endpoint, filters and extracts relevan
 
 # File Locations:
 
-The app.js code can be found in static folder in main , and coding for the mapping part can be found under static folder of daria branch
+ app.js---->static folder (Bar and line charts for immigrant count / Provinces)
+ d3_scrip.js---->Project 3-->script folder (map , bar and line chart for construction and income)
 
 ![The screenshot](/screenshots/Screenshot%202023-12-12%20182816.png)
 # SOURCES:
