@@ -12,7 +12,7 @@ on Canadian construction and property business.
 # SUMMARY:
 In summary, the code fetches data from an endpoint, filters and extracts relevant information, populates dropdown menus, and updates a bar chart and line chart based on user selections. The dropdowns allow users to choose a province or year, updating the displayed chart accordingly.
 
-#File Locations:
+# File Locations:
 
 The app.js code can be found in static folder in main , and coding for the mapping part can be found under static folder of daria branch
 
