@@ -1,0 +1,751 @@
+Data,Province,Centre,Total,id,longtitude,latitude
+2006,Newfoundland and Labrador,St. John's,1.419,1,-57.660435,53.135509
+2006,Newfoundland and Labrador,Corner Brook,88.0,2,-57.660435,53.135509
+2006,Newfoundland and Labrador,Gander,66.0,3,-57.660435,53.135509
+2006,Newfoundland and Labrador,Grand Falls-Windsor,54.0,4,-57.660435,53.135509
+2006,Newfoundland and Labrador,Labrador City,2.0,5,-57.660435,53.135509
+2006,Newfoundland and Labrador,Total,1.629,6,-57.660435,53.135509
+2006,PEI,Charlottetown,427.0,7,-63.0,46.25
+2006,PEI,Summerside,67.0,8,-63.0,45.0
+2006,PEI,Total,494.0,9,-63.0,45.0
+2006,Nova Scotia,Halifax,2.091,10,-63.0,45.0
+2006,Nova Scotia,Cape Breton,186.0,11,-63.0,45.0
+2006,Nova Scotia,Kentville,152.0,12,-63.0,45.0
+2006,Nova Scotia,New Glasgow,134.0,13,-63.0,45.0
+2006,Nova Scotia,Truro,293.0,14,-63.0,45.0
+2006,Nova Scotia,Total,2.856,15,-63.0,45.0
+2006,New Brunswick,Saint John,418.0,16,-66.159668,46.49839
+2006,New Brunswick,Fredericton,712.0,17,-66.159668,46.49839
+2006,New Brunswick,Moncton,1.174,18,-66.159668,46.49839
+2006,New Brunswick,Miramichi,52.0,19,-66.159668,46.49839
+2006,New Brunswick,Bathurst,65.0,20,-66.159668,46.49839
+2006,New Brunswick,Campbellton,21.0,21,-66.159668,46.49839
+2006,New Brunswick,Edmundston,38.0,22,-66.159668,46.49839
+2006,New Brunswick,Total,2.48,23,-66.159668,46.49839
+2006,Quebec,Saguenay,489.0,24,-70.0,53.0
+2006,Quebec,Montréal,24.143,25,-70.0,53.0
+2006,Quebec,Gatineau,2.898,26,-70.0,53.0
+2006,Quebec,Québec,5.922,27,-70.0,53.0
+2006,Quebec,Sherbrooke,1.027,28,-70.0,53.0
+2006,Quebec,Trois-Rivières,975.0,29,-70.0,53.0
+2006,Quebec,Drummondville,507.0,30,-70.0,53.0
+2006,Quebec,Granby,632.0,31,-70.0,53.0
+2006,Quebec,Saint-Jean-sur-Richelieu,808.0,32,-70.0,53.0
+2006,Quebec,Shawinigan,149.0,33,-70.0,53.0
+2006,Quebec,Gaspé,62.0,34,-70.0,53.0
+2006,Quebec,Montmagny,26.0,35,-70.0,53.0
+2006,Quebec,Roberval,7.0,36,-70.0,53.0
+2006,Quebec,Total,41.023,37,-70.0,53.0
+2006,Ontario,Hamilton,3.347,38,-85.0,50.0
+2006,Ontario,Kingston,631.0,39,-85.0,50.0
+2006,Ontario,Kitchener,3.176,40,-85.0,50.0
+2006,Ontario,London,2.787,41,-85.0,50.0
+2006,Ontario,St. Catharines-Niagara,1.263,42,-85.0,50.0
+2006,Ontario,Oshawa,2.583,43,-85.0,50.0
+2006,Ontario,Ottawa,5.301,44,-85.0,50.0
+2006,Ontario,Thunder Bay,181.0,45,-85.0,50.0
+2006,Ontario,Toronto,38.121,46,-85.0,50.0
+2006,Ontario,Windsor,951.0,47,-85.0,50.0
+2006,Ontario,Barrie,1.238,48,-85.0,50.0
+2006,Ontario,Total,68.02,49,-85.0,50.0
+2006,Manitoba,Winnipeg,2.618,50,-98.739075,56.415211
+2006,Manitoba,Hanover,70.0,51,-98.739075,56.415211
+2006,Manitoba,St. Andrews,46.0,52,-98.739075,56.415211
+2006,Manitoba,Brandon,190.0,53,-98.739075,56.415211
+2006,Manitoba,Total,2.951,54,-98.739075,56.415211
+2006,Saskachewan,Regina,1.029,55,-106.0,55.0
+2006,Saskachewan,Saskatoon,1.039,56,-106.0,55.0
+2006,Saskachewan,Estevan,63.0,57,-106.0,55.0
+2006,Saskachewan,Total,2.53,58,-106.0,55.0
+2006,Alberta,Calgary,12.69,59,-115.0,55.0
+2006,Alberta,Edmonton,12.175,60,-115.0,55.0
+2006,Alberta,Lethbridge,772.0,61,-115.0,55.0
+2006,Alberta,Medicine Hat,1.317,62,-115.0,55.0
+2006,Alberta,Red Deer,1.324,63,-115.0,55.0
+2006,Alberta,Canmore,238.0,64,-115.0,55.0
+2006,Alberta,Okotoks,848.0,65,-115.0,55.0
+2006,Alberta,Grande Prairie,1.114,66,-115.0,55.0
+2006,Alberta,Wood Buffalo,1.04,67,-115.0,55.0
+2006,Alberta,Total,32.459,68,-115.0,55.0
+2006,British Columbia,Abbotsford,745.0,69,-127.647621,53.726669
+2006,British Columbia,Vancouver,18.072,70,-127.647621,53.726669
+2006,British Columbia,Victoria,2.045,71,-127.647621,53.726669
+2006,British Columbia,Chilliwack,1.111,72,-127.647621,53.726669
+2006,British Columbia,Kamloops,620.0,73,-127.647621,53.726669
+2006,British Columbia,Kelowna,2.329,74,-127.647621,53.726669
+2006,British Columbia,Nanaimo,720.0,75,-127.647621,53.726669
+2006,British Columbia,Penticton,417.0,76,-127.647621,53.726669
+2006,British Columbia,Total,29.332,77,-127.647621,53.726669
+2006,All,Total,183.774,78,-96.818145,62.393303
+2007,Newfoundland and Labrador,St. John's,1.291,79,-57.660435,53.135509
+2007,Newfoundland and Labrador,Bay Roberts,54.0,80,-57.660435,53.135509
+2007,Newfoundland and Labrador,Corner Brook,78.0,81,-57.660435,53.135509
+2007,Newfoundland and Labrador,Gander,77.0,82,-57.660435,53.135509
+2007,Newfoundland and Labrador,Total,1.603,83,-57.660435,53.135509
+2007,PEI,Charlottetown,456.0,84,-63.0,45.0
+2007,PEI,Summerside,64.0,85,-63.0,45.0
+2007,PEI,Total,520.0,86,-63.0,45.0
+2007,Nova Scotia,Halifax,2.149,87,-63.0,45.0
+2007,Nova Scotia,Cape Breton,179.0,88,-63.0,45.0
+2007,Nova Scotia,Kentville,163.0,89,-63.0,45.0
+2007,Nova Scotia,New Glasgow,167.0,90,-63.0,45.0
+2007,Nova Scotia,Truro,322.0,91,-63.0,45.0
+2007,Nova Scotia,Total,2.98,92,-63.0,45.0
+2007,New Brunswick,Moncton,1.329,93,-66.159668,46.49839
+2007,New Brunswick,Saint John,635.0,94,-66.159668,46.49839
+2007,New Brunswick,Fredericton,657.0,95,-66.159668,46.49839
+2007,New Brunswick,Bathurst,84.0,96,-66.159668,46.49839
+2007,New Brunswick,Edmundston,78.0,97,-66.159668,46.49839
+2007,New Brunswick,Total,2.841,98,-66.159668,46.49839
+2007,Quebec,Saguenay,513.0,99,-70.0,53.0
+2007,Quebec,Montréal,24.361,100,-70.0,53.0
+2007,Quebec,Gatineau,2.632,101,-70.0,53.0
+2007,Quebec,Québec,4.442,102,-70.0,53.0
+2007,Quebec,Sherbrooke,1.706,103,-70.0,53.0
+2007,Quebec,Trois-Rivières,1.042,104,-70.0,53.0
+2007,Quebec,Drummondville,925.0,105,-70.0,53.0
+2007,Quebec,Granby,763.0,106,-70.0,53.0
+2007,Quebec,Total,41.178,107,-70.0,53.0
+2007,Ontario,Barrie,1.068,108,-85.0,50.0
+2007,Ontario,Guelph,935.0,109,-85.0,50.0
+2007,Ontario,Hamilton,3.309,110,-85.0,50.0
+2007,Ontario,Kitchener,2.718,111,-85.0,50.0
+2007,Ontario,London,3.189,112,-85.0,50.0
+2007,Ontario,St. Catharines-Niagara,1.167,113,-85.0,50.0
+2007,Ontario,Oshawa,2.598,114,-85.0,50.0
+2007,Ontario,Ottawa,5.678,115,-85.0,50.0
+2007,Ontario,Toronto,30.357,116,-85.0,50.0
+2007,Ontario,Windsor,513.0,117,-85.0,50.0
+2007,Ontario,Total,58.865,118,-85.0,50.0
+2007,Manitoba,Winnipeg,2.59,119,-98.739075,56.415211
+2007,Manitoba,Hanover,108.0,120,-98.739075,56.415211
+2007,Manitoba,Brandon,228.0,121,-98.739075,56.415211
+2007,Manitoba,Total,3.048,122,-98.739075,56.415211
+2007,Saskachewan,Regina,926.0,123,-106.0,55.0
+2007,Saskachewan,Saskatoon,1.475,124,-106.0,55.0
+2007,Saskachewan,Lloydminster,342.0,125,-106.0,55.0
+2007,Saskachewan,Prince Albert,121.0,126,-106.0,55.0
+2007,Saskachewan,Total,3.17,127,-106.0,55.0
+2007,Alberta,Calgary,13.112,128,-115.0,55.0
+2007,Alberta,Edmonton,11.839,129,-115.0,55.0
+2007,Alberta,Grande Prairie,1.375,130,-115.0,55.0
+2007,Alberta,Medicine Hat,1.044,131,-115.0,55.0
+2007,Alberta,Wood Buffalo,1.538,132,-115.0,55.0
+2007,Alberta,Total,32.942,133,-115.0,55.0
+2007,British Columbia,Abbotsford,1.273,134,-127.647621,53.726669
+2007,British Columbia,Kelowna,2.015,135,-127.647621,53.726669
+2007,British Columbia,Vancouver,17.816,136,-127.647621,53.726669
+2007,British Columbia,Victoria,2.141,137,-127.647621,53.726669
+2007,British Columbia,Chilliwack,1.085,138,-127.647621,53.726669
+2007,British Columbia,Courtenay,676.0,139,-127.647621,53.726669
+2007,British Columbia,Total,29.237,140,-127.647621,53.726669
+2007,All,Total,176.384,141,-96.818145,62.393303
+2008,Newfoundland and Labrador,St. John's,1.444,142,-57.660435,53.135509
+2008,Newfoundland and Labrador,Gander,94.0,143,-57.660435,53.135509
+2008,Newfoundland and Labrador,Grand Falls-Windsor,115.0,144,-57.660435,53.135509
+2008,Newfoundland and Labrador,Total,1.786,145,-57.660435,53.135509
+2008,PEI,Charlottetown,410.0,146,-63.0,45.0
+2008,PEI,Summerside,99.0,147,-63.0,45.0
+2008,PEI,Total,509.0,148,-63.0,45.0
+2008,Nova Scotia,Halifax,2.593,149,-63.0,45.0
+2008,Nova Scotia,Cape Breton,180.0,150,-63.0,45.0
+2008,Nova Scotia,East Hants,135.0,151,-63.0,45.0
+2008,Nova Scotia,"Kings, Subd. A",110.0,152,-63.0,45.0
+2008,Nova Scotia,Lunenburg,134.0,153,-63.0,45.0
+2008,Nova Scotia,New Glasgow,138.0,154,-63.0,45.0
+2008,Nova Scotia,Truro,261.0,155,-63.0,45.0
+2008,Nova Scotia,Total,3.805,156,-63.0,45.0
+2008,New Brunswick,Moncton,1.344,157,-66.159668,46.49839
+2008,New Brunswick,Saint John,723.0,158,-66.159668,46.49839
+2008,New Brunswick,Fredericton,720.0,159,-66.159668,46.49839
+2008,New Brunswick,Total,3.011,160,-66.159668,46.49839
+2008,Quebec,Saguenay,705.0,161,-70.0,53.0
+2008,Quebec,Montréal,23.808,162,-70.0,53.0
+2008,Quebec,Gatineau,3.107,163,-70.0,53.0
+2008,Quebec,Québec,5.486,164,-70.0,53.0
+2008,Quebec,Sherbrooke,1.17,165,-70.0,53.0
+2008,Quebec,Total,41.751,166,-70.0,53.0
+2008,Ontario,Barrie,1.004,167,-85.0,50.0
+2008,Ontario,Hamilton,2.717,168,-85.0,50.0
+2008,Ontario,Kitchener,2.21,169,-85.0,50.0
+2008,Ontario,London,3.14,170,-85.0,50.0
+2008,Ontario,St. Catharines-Niagara,970.0,171,-85.0,50.0
+2008,Ontario,Ottawa,6.432,172,-85.0,50.0
+2008,Ontario,Toronto,36.258,173,-85.0,50.0
+2008,Ontario,Total,64.846,174,-85.0,50.0
+2008,Manitoba,Winnipeg,3.543,175,-98.739075,56.415211
+2008,Manitoba,Hanover,104.0,176,-98.739075,56.415211
+2008,Manitoba,Total,4.217,177,-98.739075,56.415211
+2008,Saskachewan,Regina,1.073,178,-106.0,55.0
+2008,Saskachewan,Saskatoon,2.369,179,-106.0,55.0
+2008,Saskachewan,Lloydminster,171.0,180,-106.0,55.0
+2008,Saskachewan,Total,4.279,181,-106.0,55.0
+2008,Alberta,Calgary,14.195,182,-115.0,55.0
+2008,Alberta,Edmonton,11.217,183,-115.0,55.0
+2008,Alberta,Grande Prairie,1.404,184,-115.0,55.0
+2008,Alberta,Lethbridge,1.032,185,-115.0,55.0
+2008,Alberta,Medicine Hat,1.034,186,-115.0,55.0
+2008,Alberta,Okotoks,509.0,187,-115.0,55.0
+2008,Alberta,Wood Buffalo,1.277,188,-115.0,55.0
+2008,Alberta,Total,34.751,189,-115.0,55.0
+2008,British Columbia,Abbotsford,1.072,190,-127.647621,53.726669
+2008,British Columbia,Kelowna,3.142,191,-127.647621,53.726669
+2008,British Columbia,Vancouver,19.15,192,-127.647621,53.726669
+2008,British Columbia,Victoria,2.149,193,-127.647621,53.726669
+2008,British Columbia,Chilliwack,1.331,194,-127.647621,53.726669
+2008,British Columbia,Total,32.682,195,-127.647621,53.726669
+2008,All,Total,191.637,196,-96.818145,62.393303
+2009,Newfoundland and Labrador,St. John's,1.648,197,-57.660435,53.135509
+2009,Newfoundland and Labrador,Gander,104.0,198,-57.660435,53.135509
+2009,Newfoundland and Labrador,Total,1.979,199,-57.660435,53.135509
+2009,PEI,Charlottetown,392.0,200,-63.0,45.0
+2009,PEI,Summerside,31.0,201,-63.0,45.0
+2009,PEI,Total,423.0,202,-63.0,45.0
+2009,Nova Scotia,Halifax,2.071,203,-63.0,45.0
+2009,Nova Scotia,Cape Breton,201.0,204,-63.0,45.0
+2009,Nova Scotia,Kentville,165.0,205,-63.0,45.0
+2009,Nova Scotia,Truro,137.0,206,-63.0,45.0
+2009,Nova Scotia,Total,3.154,207,-63.0,45.0
+2009,New Brunswick,Moncton,1.237,208,-66.159668,46.49839
+2009,New Brunswick,Saint John,797.0,209,-66.159668,46.49839
+2009,New Brunswick,Fredericton,588.0,210,-66.159668,46.49839
+2009,New Brunswick,Miramichi,46.0,211,-66.159668,46.49839
+2009,New Brunswick,Total,2.838,212,-66.159668,46.49839
+2009,Quebec,Saguenay,570.0,213,-70.0,53.0
+2009,Quebec,Montréal,19.486,214,-70.0,53.0
+2009,Quebec,Gatineau,3.553,215,-70.0,53.0
+2009,Quebec,Québec,5.12,216,-70.0,53.0
+2009,Quebec,Sherbrooke,1.769,217,-70.0,53.0
+2009,Quebec,Victoriaville,410.0,218,-70.0,53.0
+2009,Quebec,Total,37.993,219,-70.0,53.0
+2009,Ontario,Barrie,728.0,220,-85.0,50.0
+2009,Ontario,Brantford,376.0,221,-85.0,50.0
+2009,Ontario,Hamilton,2.721,222,-85.0,50.0
+2009,Ontario,Kitchener,2.854,223,-85.0,50.0
+2009,Ontario,London,1.51,224,-85.0,50.0
+2009,Ontario,St. Catharines-Niagara,917.0,225,-85.0,50.0
+2009,Ontario,Ottawa,5.887,226,-85.0,50.0
+2009,Ontario,Toronto,28.356,227,-85.0,50.0
+2009,Ontario,Total,52.365,228,-85.0,50.0
+2009,Manitoba,Winnipeg,2.67,229,-98.739075,56.415211
+2009,Manitoba,Steinbach,147.0,230,-98.739075,56.415211
+2009,Manitoba,Brandon,346.0,231,-98.739075,56.415211
+2009,Manitoba,Total,3.419,232,-98.739075,56.415211
+2009,Saskachewan,Regina,1.224,233,-106.0,55.0
+2009,Saskachewan,Saskatoon,1.872,234,-106.0,55.0
+2009,Saskachewan,Swift Current,185.0,235,-106.0,55.0
+2009,Saskachewan,Total,3.913,236,-106.0,55.0
+2009,Alberta,Calgary,8.238,237,-115.0,55.0
+2009,Alberta,Edmonton,9.232,238,-115.0,55.0
+2009,Alberta,Lethbridge,867.0,239,-115.0,55.0
+2009,Alberta,Wood Buffalo,1.902,240,-115.0,55.0
+2009,Alberta,Total,24.768,241,-115.0,55.0
+2009,British Columbia,Abbotsford,898.0,242,-127.647621,53.726669
+2009,British Columbia,Kelowna,1.942,243,-127.647621,53.726669
+2009,British Columbia,Vancouver,16.788,244,-127.647621,53.726669
+2009,British Columbia,Victoria,2.463,245,-127.647621,53.726669
+2009,British Columbia,Total,27.103,246,-127.647621,53.726669
+2009,All,Total,157.955,247,-96.818145,62.393303
+2010,Newfoundland and Labrador,St. John's,1.758,248,-57.660435,53.135509
+2010,Newfoundland and Labrador,Gander (T),99.0,249,-57.660435,53.135509
+2010,Newfoundland and Labrador,Grand Falls-Windsor,97.0,250,-57.660435,53.135509
+2010,Newfoundland and Labrador,Total,2.133,251,-57.660435,53.135509
+2010,PEI,Charlottetown,685.0,252,-63.0,45.0
+2010,PEI,Summerside,63.0,253,-63.0,45.0
+2010,PEI,Total,748.0,254,-63.0,45.0
+2010,Nova Scotia,Halifax,2.044,255,-63.0,45.0
+2010,Nova Scotia,Truro,245.0,256,-63.0,45.0
+2010,Nova Scotia,Total,3.18,257,-63.0,45.0
+2010,New Brunswick,Moncton,903.0,258,-66.159668,46.49839
+2010,New Brunswick,Saint John,485.0,259,-66.159668,46.49839
+2010,New Brunswick,Fredericton,744.0,260,-66.159668,46.49839
+2010,New Brunswick,Total,2.381,261,-66.159668,46.49839
+2010,Quebec,Saguenay,929.0,262,-70.0,53.0
+2010,Quebec,Montréal,19.922,263,-70.0,53.0
+2010,Quebec,Québec,6.419,264,-70.0,53.0
+2010,Quebec,Sherbrooke,1.696,265,-70.0,53.0
+2010,Quebec,Total,40.005,266,-70.0,53.0
+2010,Ontario,Barrie,752.0,267,-85.0,50.0
+2010,Ontario,Hamilton,3.178,268,-85.0,50.0
+2010,Ontario,Kitchener,2.44,269,-85.0,50.0
+2010,Ontario,London,2.707,270,-85.0,50.0
+2010,Ontario,St. Catharines-Niagara,1.072,271,-85.0,50.0
+2010,Ontario,Ottawa,6.784,272,-85.0,50.0
+2010,Ontario,Toronto,31.393,273,-85.0,50.0
+2010,Ontario,Total,59.023,274,-85.0,50.0
+2010,Manitoba,Winnipeg,2.388,275,-98.739075,56.415211
+2010,Manitoba,Brandon,271.0,276,-98.739075,56.415211
+2010,Manitoba,Total,3.081,277,-98.739075,56.415211
+2010,Saskachewan,Regina,1.157,278,-106.0,55.0
+2010,Saskachewan,Saskatoon,2.0,279,-106.0,55.0
+2010,Saskachewan,Prince Albert,181.0,280,-106.0,55.0
+2010,Saskachewan,Total,3.878,281,-106.0,55.0
+2010,Alberta,Calgary,10.991,282,-115.0,55.0
+2010,Alberta,Edmonton,9.443,283,-115.0,55.0
+2010,Alberta,Lethbridge,794.0,284,-115.0,55.0
+2010,Alberta,Wood Buffalo,1.145,285,-115.0,55.0
+2010,Alberta,Total,26.487,286,-115.0,55.0
+2010,British Columbia,Abbotsford,767.0,287,-127.647621,53.726669
+2010,British Columbia,Kelowna,1.453,288,-127.647621,53.726669
+2010,British Columbia,Vancouver,16.474,289,-127.647621,53.726669
+2010,British Columbia,Victoria,1.784,290,-127.647621,53.726669
+2010,British Columbia,Total,25.136,291,-127.647621,53.726669
+2010,All,Total,166.052,292,-96.818145,62.393303
+2011,Newfoundland and Labrador,St. John's,1.841,293,-57.660435,53.135509
+2011,Newfoundland and Labrador,Gander (T),166.0,294,-57.660435,53.135509
+2011,Newfoundland and Labrador,Total,2.235,295,-57.660435,53.135509
+2011,PEI,Charlottetown,435.0,296,-63.0,45.0
+2011,PEI,Total,554.0,297,-63.0,45.0
+2011,Nova Scotia,Halifax,1.91,298,-63.0,45.0
+2011,Nova Scotia,Cape Breton,249.0,299,-63.0,45.0
+2011,Nova Scotia,Truro,161.0,300,-63.0,45.0
+2011,Nova Scotia,Total,3.002,301,-63.0,45.0
+2011,New Brunswick,Moncton,1.121,302,-66.159668,46.49839
+2011,New Brunswick,Saint John,402.0,303,-66.159668,46.49839
+2011,New Brunswick,Fredericton,611.0,304,-66.159668,46.49839
+2011,New Brunswick,Total,2.359,305,-66.159668,46.49839
+2011,Quebec,Montréal,19.866,306,-70.0,53.0
+2011,Quebec,Gatineau,2.402,307,-70.0,53.0
+2011,Quebec,Québec,5.667,308,-70.0,53.0
+2011,Quebec,Sherbrooke,1.514,309,-70.0,53.0
+2011,Quebec,Total,39.275,310,-70.0,53.0
+2011,Ontario,Barrie,764.0,311,-85.0,50.0
+2011,Ontario,Hamilton,2.717,312,-85.0,50.0
+2011,Ontario,Kitchener-Cambridge-Waterloo,2.535,313,-85.0,50.0
+2011,Ontario,London,2.102,314,-85.0,50.0
+2011,Ontario,Oshawa,1.838,315,-85.0,50.0
+2011,Ontario,Ottawa,5.954,316,-85.0,50.0
+2011,Ontario,Toronto,33.831,317,-85.0,50.0
+2011,Ontario,Total,58.535,318,-85.0,50.0
+2011,Manitoba,Winnipeg,3.179,319,-98.739075,56.415211
+2011,Manitoba,Steinbach (CY),289.0,320,-98.739075,56.415211
+2011,Manitoba,Brandon,295.0,321,-98.739075,56.415211
+2011,Manitoba,Total,3.994,322,-98.739075,56.415211
+2011,Saskachewan,Regina,1.214,323,-106.0,55.0
+2011,Saskachewan,Saskatoon,2.52,324,-106.0,55.0
+2011,Saskachewan,Total,4.616,325,-106.0,55.0
+2011,Alberta,Calgary,7.689,326,-115.0,55.0
+2011,Alberta,Edmonton,8.941,327,-115.0,55.0
+2011,Alberta,Lethbridge,898.0,328,-115.0,55.0
+2011,Alberta,Wood Buffalo,1.428,329,-115.0,55.0
+2011,Alberta,Total,22.234,330,-115.0,55.0
+2011,British Columbia,Abbotsford,370.0,331,-127.647621,53.726669
+2011,British Columbia,Vancouver,12.919,332,-127.647621,53.726669
+2011,British Columbia,Victoria,1.642,333,-127.647621,53.726669
+2011,British Columbia,Nanaimo,667.0,334,-127.647621,53.726669
+2011,British Columbia,Total,20.3,335,-127.647621,53.726669
+2011,All,Total,157.104,336,-96.818145,62.393303
+2012,Newfoundland and Labrador,St. John's,1.825,337,-57.660435,53.135509
+2012,Newfoundland and Labrador,Gander (T),98.0,338,-57.660435,53.135509
+2012,Newfoundland and Labrador,Grand Falls-Windsor,109.0,339,-57.660435,53.135509
+2012,Newfoundland and Labrador,Total,2.185,340,-57.660435,53.135509
+2012,PEI,Charlottetown,566.0,341,-63.0,45.0
+2012,PEI,Total,628.0,342,-63.0,45.0
+2012,Nova Scotia,Halifax,2.156,343,-63.0,45.0
+2012,Nova Scotia,Truro,213.0,344,-63.0,45.0
+2012,Nova Scotia,Total,3.247,345,-63.0,45.0
+2012,New Brunswick,Moncton,1.364,346,-66.159668,46.49839
+2012,New Brunswick,Saint John,506.0,347,-66.159668,46.49839
+2012,New Brunswick,Fredericton,566.0,348,-66.159668,46.49839
+2012,New Brunswick,Total,2.651,349,-66.159668,46.49839
+2012,Quebec,Montréal,19.092,350,-70.0,53.0
+2012,Quebec,Gatineau,2.585,351,-70.0,53.0
+2012,Quebec,Québec,5.518,352,-70.0,53.0
+2012,Quebec,Trois-Rivières,1.156,353,-70.0,53.0
+2012,Quebec,Total,37.838,354,-70.0,53.0
+2012,Ontario,Hamilton,3.169,355,-85.0,50.0
+2012,Ontario,Kitchener-Cambridge-Waterloo,2.315,356,-85.0,50.0
+2012,Ontario,Oshawa,1.759,357,-85.0,50.0
+2012,Ontario,Ottawa,5.537,358,-85.0,50.0
+2012,Ontario,Toronto,31.907,359,-85.0,50.0
+2012,Ontario,Total,56.0,360,-85.0,50.0
+2012,Manitoba,Winnipeg,3.258,361,-98.739075,56.415211
+2012,Manitoba,Hanover (RM),159.0,362,-98.739075,56.415211
+2012,Manitoba,Total,4.003,363,-98.739075,56.415211
+2012,Saskachewan,Regina,2.064,364,-106.0,55.0
+2012,Saskachewan,Saskatoon,3.122,365,-106.0,55.0
+2012,Saskachewan,Total,6.104,366,-106.0,55.0
+2012,Alberta,Calgary,9.593,367,-115.0,55.0
+2012,Alberta,Edmonton,10.166,368,-115.0,55.0
+2012,Alberta,Total,24.633,369,-115.0,55.0
+2012,British Columbia,Vancouver,16.958,370,-127.647621,53.726669
+2012,British Columbia,Victoria,1.591,371,-127.647621,53.726669
+2012,British Columbia,Total,23.62,372,-127.647621,53.726669
+2012,All,Total,160.909,373,-96.818145,62.393303
+2013,Newfoundland and Labrador,St. John's,1.949,374,-57.660435,53.135509
+2013,Newfoundland and Labrador,Corner Brook,112.0,375,-57.660435,53.135509
+2013,Newfoundland and Labrador,Grand Falls-Windsor,90.0,376,-57.660435,53.135509
+2013,Newfoundland and Labrador,Total,2.314,377,-57.660435,53.135509
+2013,PEI,Charlottetown,446.0,378,-63.0,45.0
+2013,PEI,Total,508.0,379,-63.0,45.0
+2013,Nova Scotia,Halifax,3.357,380,-63.0,45.0
+2013,Nova Scotia,Total,4.307,381,-63.0,45.0
+2013,New Brunswick,Moncton,1.235,382,-66.159668,46.49839
+2013,New Brunswick,Saint John,258.0,383,-66.159668,46.49839
+2013,New Brunswick,Fredericton,741.0,384,-66.159668,46.49839
+2013,New Brunswick,Total,2.432,385,-66.159668,46.49839
+2013,Quebec,Saguenay,933.0,386,-70.0,53.0
+2013,Quebec,Montréal,17.394,387,-70.0,53.0
+2013,Quebec,Gatineau,1.914,388,-70.0,53.0
+2013,Quebec,Québec,5.465,389,-70.0,53.0
+2013,Quebec,Total,34.641,390,-70.0,53.0
+2013,Ontario,Barrie,974.0,391,-85.0,50.0
+2013,Ontario,Hamilton,2.359,392,-85.0,50.0
+2013,Ontario,Kitchener-Cambridge-Waterloo,2.054,393,-85.0,50.0
+2013,Ontario,Ottawa,5.22,394,-85.0,50.0
+2013,Ontario,Toronto,33.708,395,-85.0,50.0
+2013,Ontario,Total,57.249,396,-85.0,50.0
+2013,Manitoba,Winnipeg,3.891,397,-98.739075,56.415211
+2013,Manitoba,Brandon,263.0,398,-98.739075,56.415211
+2013,Manitoba,Hanover (RM),179.0,399,-98.739075,56.415211
+2013,Manitoba,St. Andrews (RM),42.0,400,-98.739075,56.415211
+2013,Manitoba,St. Andrews (RM),42.0,401,-98.739075,56.415211
+2013,Manitoba,Total,4.875,402,-98.739075,56.415211
+2013,Saskachewan,Regina,2.486,403,-106.0,55.0
+2013,Saskachewan,Saskatoon,3.253,404,-106.0,55.0
+2013,Saskachewan,Total,6.828,405,-106.0,55.0
+2013,Alberta,Calgary,12.056,406,-115.0,55.0
+2013,Alberta,Edmonton,12.659,407,-115.0,55.0
+2013,Alberta,Lethbridge,669.0,408,-115.0,55.0
+2013,Alberta,Total,30.335,409,-115.0,55.0
+2013,British Columbia,Vancouver,18.392,410,-127.647621,53.726669
+2013,British Columbia,Victoria,1.465,411,-127.647621,53.726669
+2013,British Columbia,Nanaimo,635.0,412,-127.647621,53.726669
+2013,British Columbia,Total,24.793,413,-127.647621,53.726669
+2013,All,Total,168.282,414,-96.818145,62.393303
+2014,Newfoundland and Labrador,St. John's,1.573,415,-57.660435,53.135509
+2014,Newfoundland and Labrador,Bay Roberts,60.0,416,-57.660435,53.135509
+2014,Newfoundland and Labrador,Total,1.81,417,-57.660435,53.135509
+2014,PEI,Charlottetown,385.0,418,-63.0,45.0
+2014,PEI,Total,447.0,419,-63.0,45.0
+2014,Nova Scotia,Halifax,1.85,420,-63.0,45.0
+2014,Nova Scotia,Cape Breton,155.0,421,-63.0,45.0
+2014,Nova Scotia,Total,2.665,422,-63.0,45.0
+2014,New Brunswick,Moncton,847.0,423,-66.159668,46.49839
+2014,New Brunswick,Fredericton,514.0,424,-66.159668,46.49839
+2014,New Brunswick,Total,1.909,425,-66.159668,46.49839
+2014,Quebec,Montréal,18.985,426,-70.0,53.0
+2014,Quebec,Gatineau,2.205,427,-70.0,53.0
+2014,Quebec,Québec,4.451,428,-70.0,53.0
+2014,Quebec,Total,34.672,429,-70.0,53.0
+2014,Ontario,Hamilton,2.635,430,-85.0,50.0
+2014,Ontario,Kitchener-Cambridge-Waterloo,2.208,431,-85.0,50.0
+2014,Ontario,London,2.011,432,-85.0,50.0
+2014,Ontario,Ottawa,6.794,433,-85.0,50.0
+2014,Ontario,Toronto,29.213,434,-85.0,50.0
+2014,Ontario,Total,54.519,435,-85.0,50.0
+2014,Manitoba,Winnipeg,3.464,436,-98.739075,56.415211
+2014,Manitoba,Brandon,431.0,437,-98.739075,56.415211
+2014,Manitoba,Total,4.502,438,-98.739075,56.415211
+2014,Saskachewan,Regina,3.284,439,-106.0,55.0
+2014,Saskachewan,Saskatoon,2.91,440,-106.0,55.0
+2014,Saskachewan,Total,7.54,441,-106.0,55.0
+2014,Alberta,Calgary,13.753,442,-115.0,55.0
+2014,Alberta,Edmonton,13.14,443,-115.0,55.0
+2014,Alberta,Lethbridge,694.0,444,-115.0,55.0
+2014,Alberta,Total,32.65,445,-115.0,55.0
+2014,British Columbia,Kelowna,1.053,446,-127.647621,53.726669
+2014,British Columbia,Vancouver,17.731,447,-127.647621,53.726669
+2014,British Columbia,Victoria,1.813,448,-127.647621,53.726669
+2014,British Columbia,Total,24.884,449,-127.647621,53.726669
+2014,All,Total,165.598,450,-96.818145,62.393303
+2015,Newfoundland and Labrador,St. John's,1.311,451,-57.660435,53.135509
+2015,Newfoundland and Labrador,Gander (T),78.0,452,-57.660435,53.135509
+2015,Newfoundland and Labrador,Total,1.533,453,-57.660435,53.135509
+2015,PEI,Charlottetown,162.0,454,-63.0,45.0
+2015,PEI,Total,216.0,455,-63.0,45.0
+2015,Nova Scotia,Halifax,1.674,456,-63.0,45.0
+2015,Nova Scotia,New Glasgow,202.0,457,-63.0,45.0
+2015,Nova Scotia,Total,2.597,458,-63.0,45.0
+2015,New Brunswick,Moncton,546.0,459,-66.159668,46.49839
+2015,New Brunswick,Fredericton,293.0,460,-66.159668,46.49839
+2015,New Brunswick,Miramichi,108.0,461,-66.159668,46.49839
+2015,New Brunswick,Total,1.243,462,-66.159668,46.49839
+2015,Quebec,Montréal,14.749,463,-70.0,53.0
+2015,Quebec,Gatineau,1.745,464,-70.0,53.0
+2015,Quebec,Québec,4.354,465,-70.0,53.0
+2015,Quebec,Total,28.649,466,-70.0,53.0
+2015,Ontario,Barrie,1.007,467,-85.0,50.0
+2015,Ontario,Hamilton,2.722,468,-85.0,50.0
+2015,Ontario,Kitchener-Cambridge-Waterloo,3.301,469,-85.0,50.0
+2015,Ontario,Ottawa,5.933,470,-85.0,50.0
+2015,Ontario,Toronto,46.384,471,-85.0,50.0
+2015,Ontario,Total,72.054,472,-85.0,50.0
+2015,Manitoba,Winnipeg,4.182,473,-98.739075,56.415211
+2015,Manitoba,Brandon,396.0,474,-98.739075,56.415211
+2015,Manitoba,Total,4.851,475,-98.739075,56.415211
+2015,Saskachewan,Regina,2.343,476,-106.0,55.0
+2015,Saskachewan,Saskatoon,2.663,477,-106.0,55.0
+2015,Saskachewan,Total,5.851,478,-106.0,55.0
+2015,Alberta,Calgary,14.543,479,-115.0,55.0
+2015,Alberta,Edmonton,16.53,480,-115.0,55.0
+2015,Alberta,Total,36.764,481,-115.0,55.0
+2015,British Columbia,Kelowna,1.118,482,-127.647621,53.726669
+2015,British Columbia,Vancouver,17.346,483,-127.647621,53.726669
+2015,British Columbia,Victoria,1.765,484,-127.647621,53.726669
+2015,British Columbia,Total,25.205,485,-127.647621,53.726669
+2015,All,Total,178.963,486,-96.818145,62.393303
+2016,Newfoundland and Labrador,St. John's,1.087,487,-57.660435,53.135509
+2016,Newfoundland and Labrador,Corner Brook,70.0,488,-57.660435,53.135509
+2016,Newfoundland and Labrador,Total,1.28,489,-57.660435,53.135509
+2016,PEI,Charlottetown,377.0,490,-63.0,45.0
+2016,PEI,Total,452.0,491,-63.0,45.0
+2016,Nova Scotia,Halifax,2.028,492,-63.0,45.0
+2016,Nova Scotia,Cape Breton,180.0,493,-63.0,45.0
+2016,Nova Scotia,Total,2.883,494,-63.0,45.0
+2016,New Brunswick,Moncton,1.002,495,-66.159668,46.49839
+2016,New Brunswick,Fredericton,501.0,496,-66.159668,46.49839
+2016,New Brunswick,Total,1.95,497,-66.159668,46.49839
+2016,Quebec,Montréal,19.047,498,-70.0,53.0
+2016,Quebec,Gatineau,1.519,499,-70.0,53.0
+2016,Quebec,Québec,4.915,500,-70.0,53.0
+2016,Quebec,Total,32.61,501,-70.0,53.0
+2016,Ontario,Barrie,957.0,502,-85.0,50.0
+2016,Ontario,Hamilton,2.075,503,-85.0,50.0
+2016,Ontario,Kitchener-Cambridge-Waterloo,4.605,504,-85.0,50.0
+2016,Ontario,Ottawa,5.029,505,-85.0,50.0
+2016,Ontario,Toronto,34.613,506,-85.0,50.0
+2016,Ontario,Total,63.302,507,-85.0,50.0
+2016,Manitoba,Winnipeg,4.594,508,-98.739075,56.415211
+2016,Manitoba,Brandon,304.0,509,-98.739075,56.415211
+2016,Manitoba,Winkler (CY),171.0,510,-98.739075,56.415211
+2016,Manitoba,Total,5.218,511,-98.739075,56.415211
+2016,Saskachewan,Regina,1.796,512,-106.0,55.0
+2016,Saskachewan,Saskatoon,2.954,513,-106.0,55.0
+2016,Saskachewan,Total,5.306,514,-106.0,55.0
+2016,Alberta,Calgary,13.239,515,-115.0,55.0
+2016,Alberta,Edmonton,15.123,516,-115.0,55.0
+2016,Alberta,Lethbridge,907.0,517,-115.0,55.0
+2016,Alberta,Total,32.257,518,-115.0,55.0
+2016,British Columbia,Kelowna,1.783,519,-127.647621,53.726669
+2016,British Columbia,Vancouver,18.148,520,-127.647621,53.726669
+2016,British Columbia,Victoria,1.787,521,-127.647621,53.726669
+2016,British Columbia,Nanaimo,841.0,522,-127.647621,53.726669
+2016,British Columbia,Total,27.624,523,-127.647621,53.726669
+2016,All,Total,172.882,524,-96.818145,62.393303
+2017,Newfoundland and Labrador,St. John's,751.0,525,-57.660435,53.135509
+2017,Newfoundland and Labrador,Gander,88.0,526,-57.660435,53.135509
+2017,Newfoundland and Labrador,Total,992.0,527,-57.660435,53.135509
+2017,PEI,Charlottetown,377.0,528,-63.0,45.0
+2017,PEI,Total,491.0,529,-63.0,45.0
+2017,Nova Scotia,Halifax,2.38,530,-63.0,45.0
+2017,Nova Scotia,Cape Breton,136.0,531,-63.0,45.0
+2017,Nova Scotia,Truro,94.0,532,-63.0,45.0
+2017,Nova Scotia,Total,3.042,533,-63.0,45.0
+2017,New Brunswick,Moncton,465.0,534,-66.159668,46.49839
+2017,New Brunswick,Saint John,172.0,535,-66.159668,46.49839
+2017,New Brunswick,Total,1.153,536,-66.159668,46.49839
+2017,Quebec,Montréal,20.558,537,-70.0,53.0
+2017,Quebec,Québec,5.017,538,-70.0,53.0
+2017,Quebec,Sherbrooke,1.589,539,-70.0,53.0
+2017,Quebec,Total,34.601,540,-70.0,53.0
+2017,Ontario,Barrie,1.297,541,-85.0,50.0
+2017,Ontario,Hamilton,2.508,542,-85.0,50.0
+2017,Ontario,Kitchener - Cambridge - Waterl,3.531,543,-85.0,50.0
+2017,Ontario,Ottawa,5.394,544,-85.0,50.0
+2017,Ontario,Toronto,37.132,545,-85.0,50.0
+2017,Ontario,Total,68.441,546,-85.0,50.0
+2017,Manitoba,Winnipeg,4.337,547,-98.739075,56.415211
+2017,Manitoba,Brandon,186.0,548,-98.739075,56.415211
+2017,Manitoba,Total,5.062,549,-98.739075,56.415211
+2017,Saskachewan,Regina,1.58,550,-106.0,55.0
+2017,Saskachewan,Saskatoon,2.053,551,-106.0,55.0
+2017,Saskachewan,Total,4.13,552,-106.0,55.0
+2017,Alberta,Calgary,11.014,553,-115.0,55.0
+2017,Alberta,Edmonton,10.753,554,-115.0,55.0
+2017,Alberta,Wetaskiwin,7.0,555,-115.0,55.0
+2017,Alberta,Total,25.395,556,-115.0,55.0
+2017,British Columbia,Kelowna,1.498,557,-127.647621,53.726669
+2017,British Columbia,Vancouver,21.806,558,-127.647621,53.726669
+2017,British Columbia,Victoria,2.526,559,-127.647621,53.726669
+2017,British Columbia,Total,31.692,560,-127.647621,53.726669
+2017,All,Total,174.999,561,-96.818145,62.393303
+2018,Newfoundland and Labrador,St. John's,759.0,562,-57.660435,53.135509
+2018,Newfoundland and Labrador,Corner Brook,112.0,563,-57.660435,53.135509
+2018,Newfoundland and Labrador,Total,1.041,564,-57.660435,53.135509
+2018,PEI,Charlottetown,655.0,565,-63.0,45.0
+2018,PEI,Total,738.0,566,-63.0,45.0
+2018,Nova Scotia,Halifax,2.246,567,-63.0,45.0
+2018,Nova Scotia,Total,3.383,568,-63.0,45.0
+2018,New Brunswick,Moncton,948.0,569,-66.159668,46.49839
+2018,New Brunswick,Fredericton,449.0,570,-66.159668,46.49839
+2018,New Brunswick,Bathurst,66.0,571,-66.159668,46.49839
+2018,New Brunswick,Total,1.82,572,-66.159668,46.49839
+2018,Quebec,Montréal,21.65,573,-70.0,53.0
+2018,Quebec,Gatineau,1.658,574,-70.0,53.0
+2018,Quebec,Québec,5.709,575,-70.0,53.0
+2018,Quebec,Sherbrooke,1.214,576,-70.0,53.0
+2018,Quebec,Total,37.489,577,-70.0,53.0
+2018,Ontario,Barrie,1.719,578,-85.0,50.0
+2018,Ontario,Hamilton,2.504,579,-85.0,50.0
+2018,Ontario,Kitchener - Cambridge - Waterl,3.882,580,-85.0,50.0
+2018,Ontario,London,3.713,581,-85.0,50.0
+2018,Ontario,Ottawa,6.845,582,-85.0,50.0
+2018,Ontario,Toronto,37.75,583,-85.0,50.0
+2018,Ontario,Total,71.308,584,-85.0,50.0
+2018,Manitoba,Winnipeg,4.945,585,-98.739075,56.415211
+2018,Manitoba,Brandon,291.0,586,-98.739075,56.415211
+2018,Manitoba,Winkler,169.0,587,-98.739075,56.415211
+2018,Manitoba,Total,5.862,588,-98.739075,56.415211
+2018,Saskachewan,Regina,2.05,589,-106.0,55.0
+2018,Saskachewan,Saskatoon,1.568,590,-106.0,55.0
+2018,Saskachewan,Total,3.921,591,-106.0,55.0
+2018,Alberta,Calgary,9.732,592,-115.0,55.0
+2018,Alberta,Edmonton,10.091,593,-115.0,55.0
+2018,Alberta,Total,23.613,594,-115.0,55.0
+2018,British Columbia,Kelowna,2.351,595,-127.647621,53.726669
+2018,British Columbia,Vancouver,24.555,596,-127.647621,53.726669
+2018,British Columbia,Victoria,2.668,597,-127.647621,53.726669
+2018,British Columbia,Total,37.03,598,-127.647621,53.726669
+2018,All,Total,186.205,599,-96.818145,62.393303
+2019,Newfoundland and Labrador,St. John's,532.0,600,-57.660435,53.135509
+2019,Newfoundland and Labrador,Corner Brook,59.0,601,-57.660435,53.135509
+2019,Newfoundland and Labrador,Total,691.0,602,-57.660435,53.135509
+2019,PEI,Charlottetown,473.0,603,-63.0,45.0
+2019,PEI,Summerside,60.0,604,-63.0,45.0
+2019,PEI,Total,533.0,605,-63.0,45.0
+2019,Nova Scotia,Halifax,2.668,606,-63.0,45.0
+2019,Nova Scotia,Cape Breton,157.0,607,-63.0,45.0
+2019,Nova Scotia,Total,3.636,608,-63.0,45.0
+2019,New Brunswick,Moncton,767.0,609,-66.159668,46.49839
+2019,New Brunswick,Fredericton,418.0,610,-66.159668,46.49839
+2019,New Brunswick,Total,1.614,611,-66.159668,46.49839
+2019,Quebec,Montréal,23.024,612,-70.0,53.0
+2019,Quebec,Gatineau,2.828,613,-70.0,53.0
+2019,Quebec,Québec,5.75,614,-70.0,53.0
+2019,Quebec,Total,39.452,615,-70.0,53.0
+2019,Ontario,Hamilton,2.541,616,-85.0,50.0
+2019,Ontario,Kitchener - Cambridge - Waterl,2.603,617,-85.0,50.0
+2019,Ontario,London,2.631,618,-85.0,50.0
+2019,Ontario,Ottawa,5.936,619,-85.0,50.0
+2019,Ontario,Toronto,27.41,620,-85.0,50.0
+2019,Ontario,Total,56.469,621,-85.0,50.0
+2019,Manitoba,Winnipeg,4.345,622,-98.739075,56.415211
+2019,Manitoba,Brandon,255.0,623,-98.739075,56.415211
+2019,Manitoba,Total,5.366,624,-98.739075,56.415211
+2019,Saskachewan,Regina,941.0,625,-106.0,55.0
+2019,Saskachewan,Saskatoon,1.563,626,-106.0,55.0
+2019,Saskachewan,Total,2.674,627,-106.0,55.0
+2019,Alberta,Calgary,11.134,628,-115.0,55.0
+2019,Alberta,Edmonton,10.384,629,-115.0,55.0
+2019,Alberta,Lethbridge,671.0,630,-115.0,55.0
+2019,Alberta,Total,25.302,631,-115.0,55.0
+2019,British Columbia,Kelowna,3.422,632,-127.647621,53.726669
+2019,British Columbia,Vancouver,22.603,633,-127.647621,53.726669
+2019,British Columbia,Victoria,3.626,634,-127.647621,53.726669
+2019,British Columbia,Total,37.549,635,-127.647621,53.726669
+2019,All,Total,173.286,636,-96.818145,62.393303
+2020,Newfoundland and Labrador,St. John's,466.0,637,-57.660435,53.135509
+2020,Newfoundland and Labrador,Corner Brook,47.0,638,-57.660435,53.135509
+2020,Newfoundland and Labrador,Total,569.0,639,-57.660435,53.135509
+2020,PEI,Charlottetown,994.0,640,-63.0,45.0
+2020,PEI,Total,1.1,641,-63.0,45.0
+2020,Nova Scotia,Halifax,2.776,642,-63.0,45.0
+2020,Nova Scotia,Cape Breton,252.0,643,-63.0,45.0
+2020,Nova Scotia,Total,3.742,644,-63.0,45.0
+2020,New Brunswick,Moncton,1.055,645,-66.159668,46.49839
+2020,New Brunswick,Saint John,478.0,646,-66.159668,46.49839
+2020,New Brunswick,Fredericton,466.0,647,-66.159668,46.49839
+2020,New Brunswick,Total,2.208,648,-66.159668,46.49839
+2020,Quebec,Montréal,24.376,649,-70.0,53.0
+2020,Quebec,Gatineau,2.531,650,-70.0,53.0
+2020,Quebec,Québec,5.605,651,-70.0,53.0
+2020,Quebec,Total,41.613,652,-70.0,53.0
+2020,Ontario,Hamilton,2.971,653,-85.0,50.0
+2020,Ontario,Kitchener - Cambridge - Waterl,3.634,654,-85.0,50.0
+2020,Ontario,London,3.14,655,-85.0,50.0
+2020,Ontario,Ottawa,7.787,656,-85.0,50.0
+2020,Ontario,Toronto,30.841,657,-85.0,50.0
+2020,Ontario,Total,66.391,658,-85.0,50.0
+2020,Manitoba,Winnipeg,4.653,659,-98.739075,56.415211
+2020,Manitoba,Brandon,235.0,660,-98.739075,56.415211
+2020,Manitoba,Winkler,82.0,661,-98.739075,56.415211
+2020,Manitoba,Total,5.482,662,-98.739075,56.415211
+2020,Saskachewan,Regina,609.0,663,-106.0,55.0
+2020,Saskachewan,Saskatoon,1.451,664,-106.0,55.0
+2020,Saskachewan,Total,2.203,665,-106.0,55.0
+2020,Alberta,Calgary,10.705,666,-115.0,55.0
+2020,Alberta,Edmonton,11.363,667,-115.0,55.0
+2020,Alberta,Total,24.781,668,-115.0,55.0
+2020,British Columbia,Kelowna,2.223,669,-127.647621,53.726669
+2020,British Columbia,Vancouver,24.039,670,-127.647621,53.726669
+2020,British Columbia,Victoria,4.044,671,-127.647621,53.726669
+2020,British Columbia,Total,38.677,672,-127.647621,53.726669
+2020,All,Total,186.766,673,-96.818145,62.393303
+2021,Newfoundland and Labrador,St. John's,484.0,674,-57.660435,53.135509
+2021,Newfoundland and Labrador,Corner Brook,54.0,675,-57.660435,53.135509
+2021,Newfoundland and Labrador,Total,596.0,676,-57.660435,53.135509
+2021,PEI,Charlottetown,876.0,677,-63.0,45.0
+2021,PEI,Summerside,258.0,678,-63.0,45.0
+2021,PEI,Total,1.134,679,-63.0,45.0
+2021,Nova Scotia,Halifax,2.95,680,-63.0,45.0
+2021,Nova Scotia,Truro,167.0,681,-63.0,45.0
+2021,Nova Scotia,Total,4.166,682,-63.0,45.0
+2021,New Brunswick,Moncton,1.034,683,-66.159668,46.49839
+2021,New Brunswick,Saint John,310.0,684,-66.159668,46.49839
+2021,New Brunswick,Fredericton,515.0,685,-66.159668,46.49839
+2021,New Brunswick,Total,2.007,686,-66.159668,46.49839
+2021,Quebec,Montréal,23.222,687,-70.0,53.0
+2021,Quebec,Gatineau,2.852,688,-70.0,53.0
+2021,Quebec,Québec,7.017,689,-70.0,53.0
+2021,Quebec,Sherbrooke,2.194,690,-70.0,53.0
+2021,Quebec,Total,44.679,691,-70.0,53.0
+2021,Ontario,Hamilton,3.003,692,-85.0,50.0
+2021,Ontario,Kitchener - Cambridge - Waterl,4.507,693,-85.0,50.0
+2021,Ontario,London,3.815,694,-85.0,50.0
+2021,Ontario,Ottawa,8.635,695,-85.0,50.0
+2021,Ontario,Toronto,36.723,696,-85.0,50.0
+2021,Ontario,Total,76.114,697,-85.0,50.0
+2021,Manitoba,Winnipeg,4.833,698,-98.739075,56.415211
+2021,Manitoba,Brandon,385.0,699,-98.739075,56.415211
+2021,Manitoba,Total,6.125,700,-98.739075,56.415211
+2021,Saskachewan,Regina,871.0,701,-106.0,55.0
+2021,Saskachewan,Saskatoon,2.19,702,-106.0,55.0
+2021,Saskachewan,Total,3.192,703,-106.0,55.0
+2021,Alberta,Calgary,10.774,704,-115.0,55.0
+2021,Alberta,Edmonton,11.277,705,-115.0,55.0
+2021,Alberta,Lethbridge,592.0,706,-115.0,55.0
+2021,Alberta,Total,25.195,707,-115.0,55.0
+2021,British Columbia,Kelowna,2.14,708,-127.647621,53.726669
+2021,British Columbia,Vancouver,25.229,709,-127.647621,53.726669
+2021,British Columbia,Victoria,3.907,710,-127.647621,53.726669
+2021,British Columbia,Total,39.163,711,-127.647621,53.726669
+2021,All,Total,202.371,712,-96.818145,62.393303
+2022,Newfoundland and Labrador,St. John's,608.0,713,-57.660435,53.135509
+2022,Newfoundland and Labrador,Bay Roberts,33.0,714,-57.660435,53.135509
+2022,Newfoundland and Labrador,Total,684.0,715,-57.660435,53.135509
+2022,PEI,Charlottetown,808.0,716,-63.0,45.0
+2022,PEI,Total,961.0,717,-63.0,45.0
+2022,Nova Scotia,Halifax,3.061,718,-63.0,45.0
+2022,Nova Scotia,East Hants MD,352.0,719,-63.0,45.0
+2022,Nova Scotia,Total,4.404,720,-63.0,45.0
+2022,New Brunswick,Moncton,2.17,721,-66.159668,46.49839
+2022,New Brunswick,Saint John,517.0,722,-66.159668,46.49839
+2022,New Brunswick,Fredericton,1.042,723,-66.159668,46.49839
+2022,New Brunswick,Total,3.914,724,-66.159668,46.49839
+2022,Quebec,Montréal,25.74,725,-70.0,53.0
+2022,Quebec,Gatineau,2.892,726,-70.0,53.0
+2022,Quebec,Québec,8.279,727,-70.0,53.0
+2022,Quebec,Sherbrooke,2.436,728,-70.0,53.0
+2022,Quebec,Total,48.088,729,-70.0,53.0
+2022,Ontario,Hamilton,3.163,730,-85.0,50.0
+2022,Ontario,Kitchener - Cambridge - Waterl,3.396,731,-85.0,50.0
+2022,Ontario,London,3.33,732,-85.0,50.0
+2022,Ontario,Ottawa,8.346,733,-85.0,50.0
+2022,Ontario,Toronto,28.955,734,-85.0,50.0
+2022,Ontario,Total,66.949,735,-85.0,50.0
+2022,Manitoba,Winnipeg,4.671,736,-98.739075,56.415211
+2022,Manitoba,Brandon,184.0,737,-98.739075,56.415211
+2022,Manitoba,Steinbach,242.0,738,-98.739075,56.415211
+2022,Manitoba,Total,5.528,739,-98.739075,56.415211
+2022,Saskachewan,Regina,752.0,740,-106.0,55.0
+2022,Saskachewan,Saskatoon,2.186,741,-106.0,55.0
+2022,Saskachewan,Total,3.077,742,-106.0,55.0
+2022,Alberta,Calgary,13.641,743,-115.0,55.0
+2022,Alberta,Edmonton,11.866,744,-115.0,55.0
+2022,Alberta,Total,28.61,745,-115.0,55.0
+2022,British Columbia,Kelowna,2.392,746,-127.647621,53.726669
+2022,British Columbia,Vancouver,21.44,747,-127.647621,53.726669
+2022,British Columbia,Victoria,2.758,748,-127.647621,53.726669
+2022,British Columbia,Total,34.892,749,-127.647621,53.726669
+2022,All,Total,197.107,750,-96.818145,62.393303

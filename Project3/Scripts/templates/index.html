@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+    <title>Interactive Dashboard</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 400px;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="{{ url_for('static', filename='canada.js') }}"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> -->
+</head>
+<body>
+    <h1>Canadian Immigration Trends by Province</h1>
+    <form action="#" method="POST">
+        <label for="Year">Select a year:</label>
+        <select id="Year" name="Year">
+            {% for entry in unique_years %}
+                <option value="{{ entry.year }}" {% if entry.year == selected_year %}selected{% endif %}>{{ entry.year }}</option>
+            {% endfor %}
+        </select>
+    
+        <label for="Province">Select a province:</label>
+        <select id="Province" name="Province">
+            {% for entry in unique_provinces %}
+                <option value="{{ entry.province }}" {% if entry.province == selected_province %}selected{% endif %}>{{ entry.province }}</option>
+            {% endfor %}
+        </select>
+    
+        <button type="submit">Submit</button>
+    </form>
+
+   
+    <div id="map"></div>
+
+    <form action="#" method="POST" style="margin-top: 10px;">
+        <label for="ProvinceLineChart">Select a province for Charts:</label>
+        <select id="ProvinceLineChart" name="ProvinceLineChart">
+            {% for entry in unique_provinces %}
+            <option value="{{ entry.province }}" {% if entry.province == selected_province_line_chart or entry.province == 'All' %}selected{% endif %} >{{ entry.province }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+
+
+    <div id="chart-container" style="margin-top: 20px;"></div>
+    <div id="chart-container1"></div>
+
+    <script>
+        var avg_house_prices_data = {{ avg_house_prices | tojson | safe }};
+        var income_data = {{ incomes | tojson | safe }};
+        var constructions = {{ construction | tojson | safe }};
+        var mort_value_data = {{ mort_value | tojson | safe }};
+        var immigrations = {{ immigrations | tojson | safe }};
+        var provinces = [...new Set(income_data.map(d => d.geo))];
+        
+
+        // Group data by province
+        var groupedData = {};
+        provinces.forEach(province => {
+            groupedData[province] = income_data.filter(d => d.geo === province);
+        });
+    
+        // var map = L.map('map').setView([0, 0], 2);
+        // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        var totalConstruction = constructions.find(function(construction) {
+            return construction.centre === "Total";
+        });
+        // console.log(totalConstruction)
+        var map = L.map('map').setView([56.1304, -106.3468], 3); // Set the view to Canada
+
+        // var map = L.map('map').setView([56.415211, -98.739075], 6); // Set the initial view to a location in Manitoba
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+        
+        // const provinceImmigration = immigrations.find();
+        constructions.forEach(function(construction) {
+            // console.log({construction, immigrations});
+            var marker = L.marker([construction.latitude, construction.longtitude]).addTo(map);
+            marker.bindPopup(
+                `<b>${construction.centre}</b><br>
+                Province: ${construction.province}<br>
+                Total completed constructions: ${construction.total}<br>
+                Total Immigrants: ${immigrations[0].immigrants_count}
+                ` 
+            );
+        });
+
+        L.geoJSON(canada_provinces_borders, {
+        style: function(feature) {
+            var provinceName = feature.properties.name;
+            var colors = shuffleColors();
+
+            return { fillColor: colors[0], weight: 1, opacity: 1, color: 'white', fillOpacity: 0.7 };
+        }
+        }).addTo(map);
+
+
+         // Function to shuffle colors
+        function shuffleColors() {
+            var colors = [
+                '#800026', '#BD0026', '#E31A1C', '#FC4E2A', '#FD8D3C', '#FEB24C', '#FED976', '#FFEDA0'
+            ];
+            return colors.sort(() => Math.random() - 0.5);
+        }
+
+        // function updateLineChart(selectedProvince) {
+        //     // Filter data based on the selected province
+        //     var provinceData = groupedData[selectedProvince];
+
+        //     document.getElementById('ProvinceLineChart').addEventListener('change', function () {
+        //         var selectedProvince = this.value;
+        //         updateLineChart(selectedProvince);
+        //     });
+        // }
+   
+    </script>
+
+    <script src="{{ url_for('static', filename='d3_script.js') }}"></script>
+    <script src="{{ url_for('static', filename='d3_chart.js') }}"></script>
+</body>
+</html>
+        
+
