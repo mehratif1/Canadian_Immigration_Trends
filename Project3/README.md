@@ -1,4 +1,4 @@
-Canadian Immigration Trends by Province
+# Canadian Immigration Trends by Province
 
 Goals
 Express Main Trends: Illustrate key trends in the immigration process and its impact on businesses.
