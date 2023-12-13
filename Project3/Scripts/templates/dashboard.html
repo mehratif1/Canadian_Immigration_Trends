@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{%block head%}
+
+{%endblock%}
+
+{%block body%}
+<h1>Immigration and its impact on construction and property business</h1>
+<h2>Map of Immigration</h2>
+<h2>Average house prices</h2>
+<table>
+    <tr>
+        <!-- <th>id</th> -->
+        <th>Date</th>
+        <th>Average Price</th>
+    </tr>
+    {% for avg_house_price in avg_house_prices %}
+    <tr>
+        <!-- <td>{{ avg_house_price.id }}</td> -->
+        <td>{{ avg_house_price.date }}</td>
+        <td>{{ avg_house_price.avg_price }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{%endblock%}

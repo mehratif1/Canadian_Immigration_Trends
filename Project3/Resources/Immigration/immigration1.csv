@@ -1,0 +1,171 @@
+YEAR,PROVINCE,IMMIGRANTS COUNT,id
+2006,Alberta,47194,1
+2007,Alberta,57508,2
+2008,Alberta,68668,3
+2009,Alberta,53051,4
+2010,Alberta,41838,5
+2011,Alberta,53014,6
+2012,Alberta,62317,7
+2013,Alberta,74213,8
+2014,Alberta,59450,9
+2015,Alberta,54077,10
+2016,Alberta,68802,11
+2017,Alberta,66064,12
+2018,Alberta,65369,13
+2019,Alberta,73947,14
+2020,Alberta,31077,15
+2021,Alberta,108738,16
+2022,Alberta,214161,17
+2006,British Columbia,82476,18
+2007,British Columbia,86383,19
+2008,British Columbia,97093,20
+2009,British Columbia,90963,21
+2010,British Columbia,80292,22
+2011,British Columbia,84126,23
+2012,British Columbia,82238,24
+2013,British Columbia,85229,25
+2014,British Columbia,80254,26
+2015,British Columbia,52454,27
+2016,British Columbia,99034,28
+2017,British Columbia,109307,29
+2018,British Columbia,112153,30
+2019,British Columbia,114696,31
+2020,British Columbia,24086,32
+2021,British Columbia,256558,33
+2022,British Columbia,464239,34
+2006,Manitoba,15278,35
+2007,Manitoba,16616,36
+2008,Manitoba,16151,37
+2009,Manitoba,17808,38
+2010,Manitoba,19421,39
+2011,Manitoba,19717,40
+2012,Manitoba,18347,41
+2013,Manitoba,18202,42
+2014,Manitoba,21729,43
+2015,Manitoba,24519,44
+2016,Manitoba,27150,45
+2017,Manitoba,26948,46
+2018,Manitoba,24556,47
+2019,Manitoba,24177,48
+2020,Manitoba,10706,49
+2021,Manitoba,40814,50
+2022,Manitoba,80759,51
+2006,New Brunswick,3563,52
+2007,New Brunswick,3495,53
+2008,New Brunswick,3956,54
+2009,New Brunswick,3592,55
+2010,New Brunswick,3580,56
+2011,New Brunswick,3326,57
+2012,New Brunswick,3565,58
+2013,New Brunswick,3355,59
+2014,New Brunswick,4263,60
+2015,New Brunswick,4681,61
+2016,New Brunswick,6518,62
+2017,New Brunswick,5859,63
+2018,New Brunswick,7558,64
+2019,New Brunswick,8899,65
+2020,New Brunswick,3531,66
+2021,New Brunswick,20064,67
+2022,New Brunswick,39915,68
+2006,Newfoundland and Labrador,1672,69
+2007,Newfoundland and Labrador,1477,70
+2008,Newfoundland and Labrador,1861,71
+2009,Newfoundland and Labrador,1710,72
+2010,Newfoundland and Labrador,1545,73
+2011,Newfoundland and Labrador,2071,74
+2012,Newfoundland and Labrador,2453,75
+2013,Newfoundland and Labrador,2455,76
+2014,Newfoundland and Labrador,1823,77
+2015,Newfoundland and Labrador,2460,78
+2016,Newfoundland and Labrador,3012,79
+2017,Newfoundland and Labrador,2069,80
+2018,Newfoundland and Labrador,2253,81
+2019,Newfoundland and Labrador,3121,82
+2020,Newfoundland and Labrador,257,83
+2021,Newfoundland and Labrador,8885,84
+2022,Newfoundland and Labrador,18217,85
+2006,Nova Scotia,5883,86
+2007,Nova Scotia,5229,87
+2008,Nova Scotia,6033,88
+2009,Nova Scotia,6064,89
+2010,Nova Scotia,6467,90
+2011,Nova Scotia,6297,91
+2012,Nova Scotia,6001,92
+2013,Nova Scotia,5121,93
+2014,Nova Scotia,5397,94
+2015,Nova Scotia,8616,95
+2016,Nova Scotia,10673,96
+2017,Nova Scotia,9594,97
+2018,Nova Scotia,12405,98
+2019,Nova Scotia,13416,99
+2020,Nova Scotia,2582,100
+2021,Nova Scotia,29955,101
+2022,Nova Scotia,56780,102
+2006,Ontario,208028,103
+2007,Ontario,198742,104
+2008,Ontario,205703,105
+2009,Ontario,189125,106
+2010,Ontario,202329,107
+2011,Ontario,201423,108
+2012,Ontario,200996,109
+2013,Ontario,202869,110
+2014,Ontario,187929,111
+2015,Ontario,204297,112
+2016,Ontario,265706,113
+2017,Ontario,271227,114
+2018,Ontario,299184,115
+2019,Ontario,318713,116
+2020,Ontario,90190,117
+2021,Ontario,641514,118
+2022,Ontario,1104635,119
+2006,Prince Edward Island,1009,120
+2007,Prince Edward Island,1386,121
+2008,Prince Edward Island,1839,122
+2009,Prince Edward Island,2166,123
+2010,Prince Edward Island,3017,124
+2011,Prince Edward Island,2183,125
+2012,Prince Edward Island,1633,126
+2013,Prince Edward Island,1318,127
+2014,Prince Edward Island,2128,128
+2015,Prince Edward Island,2348,129
+2016,Prince Edward Island,3444,130
+2017,Prince Edward Island,3393,131
+2018,Prince Edward Island,3664,132
+2019,Prince Edward Island,3964,133
+2020,Prince Edward Island,1561,134
+2021,Prince Edward Island,7560,135
+2022,Prince Edward Island,12456,136
+2006,Quebec,69565,137
+2007,Quebec,73504,138
+2008,Quebec,78684,139
+2009,Quebec,81298,140
+2010,Quebec,80145,141
+2011,Quebec,82484,142
+2012,Quebec,86210,143
+2013,Quebec,81490,144
+2014,Quebec,83268,145
+2015,Quebec,83553,146
+2016,Quebec,99968,147
+2017,Quebec,119147,148
+2018,Quebec,122769,149
+2019,Quebec,128785,150
+2020,Quebec,36738,151
+2021,Quebec,212221,152
+2022,Quebec,498555,153
+2006,Saskatchewan,4403,154
+2007,Saskatchewan,5746,155
+2008,Saskatchewan,8521,156
+2009,Saskatchewan,10753,157
+2010,Saskatchewan,9567,158
+2011,Saskatchewan,12730,159
+2012,Saskatchewan,15859,160
+2013,Saskatchewan,15609,161
+2014,Saskatchewan,14327,162
+2015,Saskatchewan,16664,163
+2016,Saskatchewan,19489,164
+2017,Saskatchewan,17922,165
+2018,Saskatchewan,19352,166
+2019,Saskatchewan,21214,167
+2020,Saskatchewan,8328,168
+2021,Saskatchewan,25307,169
+2022,Saskatchewan,55857,170

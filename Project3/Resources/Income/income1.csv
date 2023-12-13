@@ -1,0 +1,171 @@
+REF_DATE,GEO,VALUE,id
+2006,Newfoundland and Labrador,40900,1
+2007,Newfoundland and Labrador,41700,2
+2008,Newfoundland and Labrador,41000,3
+2009,Newfoundland and Labrador,41400,4
+2010,Newfoundland and Labrador,41500,5
+2011,Newfoundland and Labrador,45500,6
+2012,Newfoundland and Labrador,48200,7
+2013,Newfoundland and Labrador,53800,8
+2014,Newfoundland and Labrador,55400,9
+2015,Newfoundland and Labrador,49800,10
+2016,Newfoundland and Labrador,50700,11
+2017,Newfoundland and Labrador,46300,12
+2018,Newfoundland and Labrador,48200,13
+2019,Newfoundland and Labrador,48400,14
+2020,Newfoundland and Labrador,45000,15
+2021,Newfoundland and Labrador,47600,16
+2022,Newfoundland and Labrador,43857,17
+2006,Prince Edward Island,44300,18
+2007,Prince Edward Island,45800,19
+2008,Prince Edward Island,49400,20
+2009,Prince Edward Island,45700,21
+2010,Prince Edward Island,47400,22
+2011,Prince Edward Island,46800,23
+2012,Prince Edward Island,48800,24
+2013,Prince Edward Island,46600,25
+2014,Prince Edward Island,48300,26
+2015,Prince Edward Island,46300,27
+2016,Prince Edward Island,45400,28
+2017,Prince Edward Island,45600,29
+2018,Prince Edward Island,46500,30
+2019,Prince Edward Island,48900,31
+2020,Prince Edward Island,46100,32
+2021,Prince Edward Island,53000,33
+2022,Prince Edward Island,51000,34
+2006,Nova Scotia,47900,35
+2007,Nova Scotia,48300,36
+2008,Nova Scotia,47200,37
+2009,Nova Scotia,45800,38
+2010,Nova Scotia,45700,39
+2011,Nova Scotia,47600,40
+2012,Nova Scotia,47800,41
+2013,Nova Scotia,50200,42
+2014,Nova Scotia,49300,43
+2015,Nova Scotia,47800,44
+2016,Nova Scotia,47300,45
+2017,Nova Scotia,47900,46
+2018,Nova Scotia,47100,47
+2019,Nova Scotia,47200,48
+2020,Nova Scotia,47700,49
+2021,Nova Scotia,50700,50
+2022,Nova Scotia,53083,51
+2006,New Brunswick,43100,52
+2007,New Brunswick,44400,53
+2008,New Brunswick,45800,54
+2009,New Brunswick,44500,55
+2010,New Brunswick,44800,56
+2011,New Brunswick,46200,57
+2012,New Brunswick,44900,58
+2013,New Brunswick,46300,59
+2014,New Brunswick,47200,60
+2015,New Brunswick,48500,61
+2016,New Brunswick,45100,62
+2017,New Brunswick,46000,63
+2018,New Brunswick,46800,64
+2019,New Brunswick,46400,65
+2020,New Brunswick,44700,66
+2021,New Brunswick,49600,67
+2022,New Brunswick,56315,68
+2006,Quebec,47200,69
+2007,Quebec,47000,70
+2008,Quebec,47100,71
+2009,Quebec,46900,72
+2010,Quebec,47600,73
+2011,Quebec,47400,74
+2012,Quebec,48600,75
+2013,Quebec,47900,76
+2014,Quebec,49200,77
+2015,Quebec,48200,78
+2016,Quebec,48900,79
+2017,Quebec,49500,80
+2018,Quebec,49700,81
+2019,Quebec,51700,82
+2020,Quebec,49100,83
+2021,Quebec,54400,84
+2022,Quebec,58149,85
+2006,Ontario,62800,86
+2007,Ontario,64000,87
+2008,Ontario,63600,88
+2009,Ontario,60700,89
+2010,Ontario,60500,90
+2011,Ontario,59000,91
+2012,Ontario,59200,92
+2013,Ontario,59300,93
+2014,Ontario,61300,94
+2015,Ontario,60700,95
+2016,Ontario,60800,96
+2017,Ontario,61600,97
+2018,Ontario,64800,98
+2019,Ontario,63300,99
+2020,Ontario,61500,100
+2021,Ontario,65900,101
+2022,Ontario,62748,102
+2006,Manitoba,50600,103
+2007,Manitoba,53400,104
+2008,Manitoba,56800,105
+2009,Manitoba,55600,106
+2010,Manitoba,54200,107
+2011,Manitoba,54600,108
+2012,Manitoba,56700,109
+2013,Manitoba,59600,110
+2014,Manitoba,58700,111
+2015,Manitoba,59000,112
+2016,Manitoba,58500,113
+2017,Manitoba,59900,114
+2018,Manitoba,59500,115
+2019,Manitoba,57800,116
+2020,Manitoba,54900,117
+2021,Manitoba,58300,118
+2022,Manitoba,55466,119
+2006,Saskatchewan,50100,120
+2007,Saskatchewan,52600,121
+2008,Saskatchewan,58900,122
+2009,Saskatchewan,60000,123
+2010,Saskatchewan,59200,124
+2011,Saskatchewan,61300,125
+2012,Saskatchewan,63800,126
+2013,Saskatchewan,65000,127
+2014,Saskatchewan,69600,128
+2015,Saskatchewan,67400,129
+2016,Saskatchewan,65200,130
+2017,Saskatchewan,63200,131
+2018,Saskatchewan,64000,132
+2019,Saskatchewan,60900,133
+2020,Saskatchewan,58400,134
+2021,Saskatchewan,62500,135
+2022,Saskatchewan,60096,136
+2006,Alberta,72900,137
+2007,Alberta,75800,138
+2008,Alberta,80000,139
+2009,Alberta,77800,140
+2010,Alberta,74300,141
+2011,Alberta,75800,142
+2012,Alberta,82100,143
+2013,Alberta,83300,144
+2014,Alberta,89000,145
+2015,Alberta,86000,146
+2016,Alberta,80200,147
+2017,Alberta,77000,148
+2018,Alberta,80200,149
+2019,Alberta,74900,150
+2020,Alberta,73200,151
+2021,Alberta,75300,152
+2022,Alberta,69834,153
+2006,British Columbia,55500,154
+2007,British Columbia,57900,155
+2008,British Columbia,59400,156
+2009,British Columbia,54300,157
+2010,British Columbia,53000,158
+2011,British Columbia,52600,159
+2012,British Columbia,54900,160
+2013,British Columbia,58100,161
+2014,British Columbia,55100,162
+2015,British Columbia,54600,163
+2016,British Columbia,55300,164
+2017,British Columbia,59200,165
+2018,British Columbia,57900,166
+2019,British Columbia,59400,167
+2020,British Columbia,58000,168
+2021,British Columbia,63200,169
+2022,British Columbia,61150,170
